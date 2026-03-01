@@ -1,1 +1,2 @@
-# NodeJS-Exercises
+# NodeJS-Exercises.
+Source code: https://github.com/EthanRBrown/web-development-with-node-and-express-2e
